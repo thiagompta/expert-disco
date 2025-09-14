@@ -1,9 +1,0 @@
-1. Abertura (Rapport + Credibilidade)
-“Oi [Nome do Cliente], tudo bem?
-Aqui é o Thiago, da Forum Investimentos. Eu vi que você investe hoje pelo Santander, inclusive com acompanhamento da gerente [Nome da Gerente]. Estou entrando em contato para me apresentar e explicar rapidamente como atuamos.”
-(se o cliente responder positivo, segue)
-
-2. Situação (Perguntas para entender contexto)
-“Me conta, como você costuma acompanhar seus investimentos hoje?
-Fala mais com a gerente ou tem algum assessor dedicado?”
-
